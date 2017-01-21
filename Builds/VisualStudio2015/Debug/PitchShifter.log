@@ -1,0 +1,15 @@
+﻿  PluginEditor.cpp
+c:\users\owner\documents\pitchshifter\source\pluginprocessor.h(53): warning C4996: 'juce::AudioProcessor::getInputChannelName': was declared deprecated
+  c:\juce\juce updated\juce\modules\juce_audio_processors\processors\juce_audioprocessor.h(949): note: see declaration of 'juce::AudioProcessor::getInputChannelName'
+c:\users\owner\documents\pitchshifter\source\pluginprocessor.h(54): warning C4996: 'juce::AudioProcessor::getOutputChannelName': was declared deprecated
+  c:\juce\juce updated\juce\modules\juce_audio_processors\processors\juce_audioprocessor.h(950): note: see declaration of 'juce::AudioProcessor::getOutputChannelName'
+c:\users\owner\documents\pitchshifter\source\pluginprocessor.h(55): warning C4996: 'juce::AudioProcessor::isInputChannelStereoPair': was declared deprecated
+  c:\juce\juce updated\juce\modules\juce_audio_processors\processors\juce_audioprocessor.h(957): note: see declaration of 'juce::AudioProcessor::isInputChannelStereoPair'
+c:\users\owner\documents\pitchshifter\source\pluginprocessor.h(56): warning C4996: 'juce::AudioProcessor::isOutputChannelStereoPair': was declared deprecated
+  c:\juce\juce updated\juce\modules\juce_audio_processors\processors\juce_audioprocessor.h(958): note: see declaration of 'juce::AudioProcessor::isOutputChannelStereoPair'
+c:\users\owner\documents\pitchshifter\source\pluginprocessor.h(60): warning C4996: 'juce::AudioProcessor::silenceInProducesSilenceOut': was declared deprecated
+  c:\juce\juce updated\juce\modules\juce_audio_processors\processors\juce_audioprocessor.h(1020): note: see declaration of 'juce::AudioProcessor::silenceInProducesSilenceOut'
+c:\users\owner\documents\pitchshifter\source\plugineditor.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\owner\documents\pitchshifter\source\plugineditor.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PitchShifter.vcxproj -> C:\Users\owner\Documents\PitchShifter\Builds\VisualStudio2015\Debug\PitchShifter.dll
+  PitchShifter.vcxproj -> Debug\\PitchShifter.pdb (Full PDB)
