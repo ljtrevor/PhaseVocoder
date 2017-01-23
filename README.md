@@ -16,7 +16,15 @@ Our plug-in was designed for the following Digital Audio Workstations:
 Our plug-in was optimized for Reaper v5.22.
 
 ## Running
+To use this plug-in, download the zip into a local directory.
 
+$ git clone https://github.com/ljtrevor/PhaseVocoder.git
+
+Navigate to PhaseVocoder/Builds/VisualStudio2015/Debug/
+
+Copy PitchShifter.dll into the plug-ins folder of your Digital Audio Workstation.
+
+Start your Digital Audio Workstation and enjoy!
 
 ## Credit
 This is an unlicensed project created by Maitreya Panse and Trevor Lee.
